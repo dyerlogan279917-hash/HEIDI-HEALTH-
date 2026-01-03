@@ -1,0 +1,79 @@
+PRIVACY POLICY - PICK AND MATCH
+
+Last Updated: January 3, 2026
+
+HEIDI HEALTH TRADING PTY LTD ("we," "our," or "us") operates the mobile application "Pick and Match" (the "App"). This Privacy Policy informs you of our policies regarding the collection, use, and disclosure of personal data when you use our App.
+
+1. INFORMATION WE COLLECT
+
+1.1 Information You Provide
+We may collect information that you provide directly to us when using the App, including:
+- Game progress and scores
+- In-app preferences and settings
+- Any other information you choose to provide
+
+1.2 Automatically Collected Information
+When you use our App, we may automatically collect certain information, including:
+- Device information (device type, operating system, unique device identifiers)
+- Usage data (how you interact with the App, features used, time spent)
+- Technical data (IP address, browser type, crash reports)
+
+2. HOW WE USE YOUR INFORMATION
+
+We use the information we collect to:
+- Provide, maintain, and improve the App
+- Personalize your gaming experience
+- Save your game progress and preferences
+- Analyze usage patterns to improve our services
+- Respond to your inquiries and provide customer support
+- Ensure the security and integrity of the App
+
+3. DATA STORAGE AND SECURITY
+
+We implement appropriate technical and organizational measures to protect your personal information. Your data is stored locally on your device and may be backed up to cloud services provided by your device manufacturer (e.g., Google Play Services).
+
+4. DATA SHARING AND DISCLOSURE
+
+We do not sell, trade, or rent your personal information to third parties. We may share your information only in the following circumstances:
+- With your explicit consent
+- To comply with legal obligations
+- To protect our rights and safety
+- With service providers who assist us in operating the App (under strict confidentiality agreements)
+
+5. CHILDREN'S PRIVACY
+
+Our App is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately.
+
+6. YOUR RIGHTS
+
+You have the right to:
+- Access your personal information
+- Request correction of inaccurate data
+- Request deletion of your data
+- Object to processing of your data
+- Request data portability
+
+To exercise these rights, please contact us using the information provided below.
+
+7. DATA RETENTION
+
+We retain your personal information for as long as necessary to provide the App and fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required by law.
+
+8. CHANGES TO THIS PRIVACY POLICY
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date. You are advised to review this Privacy Policy periodically for any changes.
+
+9. THIRD-PARTY SERVICES
+
+The App may contain links to third-party websites or services. We are not responsible for the privacy practices of these third parties. We encourage you to read their privacy policies.
+
+10. CONTACT US
+
+If you have any questions about this Privacy Policy, please contact us:
+
+HEIDI HEALTH TRADING PTY LTD
+Collingwood VIC 3066, Australia
+Email: privacy@heidihealth.com
+
+This Privacy Policy is effective as of January 3, 2026.
+
